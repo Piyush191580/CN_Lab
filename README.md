@@ -124,9 +124,9 @@ The practical files and implementations are maintained for reference, experiment
 
 ## 👨‍💻 Author
 
-**Arjun Balpande**
+** Piyush Agrawal **
 
-GitHub: [@arjunabalpande06](https://github.com/arjunabalpande06)
+GitHub: [@Piyush191580] (https://github.com/Piyush191580)
 
 ---
 
